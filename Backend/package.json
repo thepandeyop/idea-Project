@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Creating olx feature",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepandeyop/idea-Project.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Arun,Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thepandeyop/idea-Project/issues"
+  },
+  "homepage": "https://github.com/thepandeyop/idea-Project#readme",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
